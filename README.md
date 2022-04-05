@@ -1,2 +1,2 @@
 # fighterQuote
-create a conditional function that returns a fighter's catch phrase
+create a conditional function that returns a george saint pierre or conor macgregor's catch phrase
